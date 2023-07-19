@@ -1,0 +1,41 @@
+.sub2 {
+  display: flex;
+  flex-direction: row;
+}
+.des {
+  font-weight: bold;
+  color: black;
+  font-size: 20px;
+  margin-top: 30px;
+  font-family: Bree Serif;
+}
+.logo {
+  height: 30px;
+  width: 30px;
+  margin-top: 30px;
+  margin-left: 80px;
+}
+.head {
+  font-weight: bold;
+  color: black;
+  font-size: 30px;
+  font-family: Bree Serif;
+  margin-left: 10px;
+}
+.pads {
+  font-weight: bold;
+  color: grey;
+  font-size: 20px;
+  margin-top: 35px;
+  font-family: Bree Serif;
+  margin-left: 10px;
+}
+.delete-logo {
+  height: 40px;
+  width: 40px;
+  margin-top: 30px;
+}
+.container {
+  display: flex;
+  width: 1500px;
+}
